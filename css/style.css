@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: #93BBBF;
+}
+nav{
+    background-color: #F2F2F2;
+    color: black;
+}
+footer{
+    background-color: #374342;
+    color:white;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+aside{
+    padding: 5px;
+    font-style: italic;
+    float: right;
+    border: 2px solid;
+}
